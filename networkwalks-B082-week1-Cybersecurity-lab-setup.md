@@ -303,7 +303,7 @@ These machines could then be used for network scanning, vulnerability assessment
 **Alward Aladham**
 
 Cybersecurity Professional  
-Networkwalks B082
+
 
 LinkedIn: [Alward Aladham](https://www.linkedin.com/in/alward-aladham/?utm_source=chatgpt.com)
 
